@@ -1,0 +1,22 @@
+
+
+# What should we do first?
+
+  - Inviting promoters
+  - Creating accounts
+  - Log in as a promoter
+  - Adding concerts
+  - Editing concerts
+  - Publishing concerts
+  - Integrating with Stripe Connecdt to direcdt payments
+  - Purchasing tickets
+
+# What Should We Test?
+
+- Purchasing Tickets
+  - View the concert listing
+    + Allowing people to view the published concerts
+    + Not allowing people to view the unpublished concerts
+  - Pay for the tickets
+  - View their purchased tickets in the browser
+  - Send an email confirmation w/a link back to the tickets
